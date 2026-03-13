@@ -394,6 +394,7 @@
       - [Motion Capture (MoCap)](computer_vision/motion_capture.md)
       - [Visual Inertial Odometry (VIO)](computer_vision/visual_inertial_odometry.md)
         - [Realsense T265 Tracking Camera (VIO)](camera/camera_intel_realsense_t265_vio.md)
+      - [Camera-Based Attitude Estimation (OpenCV, RPi 4B)](companion_computer/opencv_camera_attitude_estimator.md)
     - [Video Streaming](companion_computer/video_streaming.md)
       - [Video Streaming using WFB-ng Wifi (Long range)](companion_computer/video_streaming_wfb_ng_wifi.md)
   - [Serial Port Configuration](peripherals/serial_configuration.md)
